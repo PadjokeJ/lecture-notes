@@ -31,3 +31,6 @@ On peut également avoir une feuille **recto simple** (UN CÔTÉ) manuscrite (pe
 - [[Semaine 0]]
 - [[ba1-EPFL/PHYS-101/Semaine 1|Semaine 1]]
 - [[ba1-EPFL/PHYS-101/Semaine 2|Semaine 2]]
+- [[ba1-EPFL/PHYS-101/Semaine 3|Semaine 3]]
+- [[ba1-EPFL/PHYS-101/Semaine 4|Semaine 4]]
+- [[ba1-EPFL/PHYS-101/Semaine 5|Semaine 5]]

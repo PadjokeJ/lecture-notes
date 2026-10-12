@@ -8,4 +8,4 @@ tags:
 - [[04.1 Opérations sur les limites]]
 - [[04.2 Relation d'ordre]]
 
-[[Semaine 5]]
+[[ba1-EPFL/MATH-101/Semaine 5]]
