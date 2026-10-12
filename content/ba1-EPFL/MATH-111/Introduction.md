@@ -29,3 +29,4 @@ Si on finit pas les séries en classe, elles seront sur moodle
 - [[ba1-EPFL/MATH-111/Chapitre 3|Chapitre 3]]
 - [[ba1-EPFL/MATH-111/Chapitre 4|Chapitre 4]]
 - [[Chapitre 5]]
+- [[Chapitre 6]]
