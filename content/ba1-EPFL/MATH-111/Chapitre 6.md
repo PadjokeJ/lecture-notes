@@ -15,3 +15,5 @@ tags:
 - [[06.10 Changements de base -- exemple]]
 - [[06.11 Matrices semblables]]
 - [[06.12 Changement de base -- cas général]]
+
+[[Chapitre 7]]
