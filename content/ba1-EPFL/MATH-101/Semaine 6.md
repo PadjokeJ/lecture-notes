@@ -8,4 +8,4 @@ tags:
 - [[06.2 Critères de convergence]]
 - [[07.1 Fonctions réelles -- Définitions]]
 
-[[Semaine 7]]
+[[ba1-EPFL/MATH-101/Semaine 7]]
