@@ -9,3 +9,5 @@ tags:
 - [[07.3 Critère d'inversibilité]]
 - [[07.4 Le déterminant d'un produit]]
 - [[07.5 Le déterminant interprétation géométrique]]
+
+[[Chapitre 8]]

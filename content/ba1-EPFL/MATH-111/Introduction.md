@@ -31,3 +31,4 @@ Si on finit pas les séries en classe, elles seront sur moodle
 - [[Chapitre 5]]
 - [[Chapitre 6]]
 - [[Chapitre 7]]
+- [[Chapitre 8]]
