@@ -8,4 +8,4 @@ tags:
 - [[07.6 Fonction exponentielle et logarithmique]]
 - [[07.7 Fonctions continues]]
 
-[[Semaine 9]]
+[[ba1-EPFL/MATH-101/Semaine 9]]
