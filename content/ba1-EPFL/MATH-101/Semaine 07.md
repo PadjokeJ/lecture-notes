@@ -9,4 +9,4 @@ tags:
 - [[07.3 Limites lorsque x tend vers l'infini]]
 - [[07.4 Limites infinies]]
 
-[[Semaine 08]]
+[[ba1-EPFL/MATH-101/Semaine 08]]

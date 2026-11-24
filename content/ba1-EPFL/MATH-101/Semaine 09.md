@@ -7,4 +7,4 @@ tags:
 - [[08.1 Calcul différentiel -- Fonctions dérivables]]
 - [[08.2 Fonctions hyperboliques]]
 
-[[Semaine 10]]
+[[ba1-EPFL/MATH-101/Semaine 10]]

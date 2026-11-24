@@ -8,4 +8,4 @@ Cette semaine on parle d'ensembles d'éléments, mais surtout d'ensembles de nom
 - [[00.0 Prérequis]]
 - [[01.1 Nombres réels -- Ensembles]]
 
-[[Semaine 02|Semaine 02]]
+[[ba1-EPFL/MATH-101/Semaine 02|Semaine 02]]

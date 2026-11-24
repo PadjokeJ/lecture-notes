@@ -8,4 +8,4 @@ tags:
 - [[08.2 Oscillateur libres et énergie]]
 - [[08.3 Oscillations amorties, dérivation et analyse]]
 
-[[ba1-EPFL/PHYS-101/Semaine 9]]
+[[ba1-EPFL/PHYS-101/Semaine 09]]

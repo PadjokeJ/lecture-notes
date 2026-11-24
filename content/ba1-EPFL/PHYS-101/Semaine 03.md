@@ -19,4 +19,4 @@ tags:
 - [[04.6 Balistique -- Temps de vol]]
 - [[04.7 Balistique -- Parabole de sûreté]]
 
-[[ba1-EPFL/PHYS-101/Semaine 4]]
+[[ba1-EPFL/PHYS-101/Semaine 04]]

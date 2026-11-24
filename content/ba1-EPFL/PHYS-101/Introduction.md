@@ -29,11 +29,14 @@ On peut également avoir une feuille **recto simple** (UN CÔTÉ) manuscrite (pe
 # Semaines
 
 - [[Semaine 0]]
-- [[ba1-EPFL/PHYS-101/Semaine 1|Semaine 1]]
-- [[ba1-EPFL/PHYS-101/Semaine 2|Semaine 2]]
-- [[ba1-EPFL/PHYS-101/Semaine 3|Semaine 3]]
-- [[ba1-EPFL/PHYS-101/Semaine 4|Semaine 4]]
-- [[ba1-EPFL/PHYS-101/Semaine 5|Semaine 5]]
-- [[ba1-EPFL/PHYS-101/Semaine 6|Semaine 6]]
-- [[ba1-EPFL/PHYS-101/Semaine 7|Semaine 7]]
-- [[ba1-EPFL/PHYS-101/Semaine 8|Semaine 8]]
+- [[ba1-EPFL/PHYS-101/Semaine 01|Semaine 01]]
+- [[ba1-EPFL/PHYS-101/Semaine 02|Semaine 02]]
+- [[ba1-EPFL/PHYS-101/Semaine 03|Semaine 03]]
+- [[ba1-EPFL/PHYS-101/Semaine 04|Semaine 04]]
+- [[ba1-EPFL/PHYS-101/Semaine 05|Semaine 05]]
+- [[ba1-EPFL/PHYS-101/Semaine 06|Semaine 06]]
+- [[ba1-EPFL/PHYS-101/Semaine 07|Semaine 07]]
+- [[ba1-EPFL/PHYS-101/Semaine 08|Semaine 08]]
+- [[ba1-EPFL/PHYS-101/Semaine 09|Semaine 09]]
+- [[ba1-EPFL/PHYS-101/Semaine 10|Semaine 10]]
+

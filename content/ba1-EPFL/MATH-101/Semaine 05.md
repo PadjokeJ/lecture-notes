@@ -9,4 +9,4 @@ tags:
 - [[05.3 Suites de Cauchy]]
 - [[05.4 Limite supérieure et limite inférieure d'une suite bornée]]
 
-[[Semaine 06]]
+[[ba1-EPFL/MATH-101/Semaine 06]]

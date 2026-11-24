@@ -8,4 +8,4 @@ tags:
 - [[05.1 Forces -- Réaction d'un support]]
 - [[05.2 Forces -- Frottement sec]]
 
-[[ba1-EPFL/PHYS-101/Semaine 5|Semaine 5]]
+[[ba1-EPFL/PHYS-101/Semaine 05|Semaine 05]]

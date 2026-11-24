@@ -12,4 +12,4 @@ tags:
 - [[07.5 Chocs inélastiques]]
 - [[07.6 Système de masse variable -- fusée]]
 
-[[ba1-EPFL/PHYS-101/Semaine 8|Semaine 8]]
+[[ba1-EPFL/PHYS-101/Semaine 08|Semaine 08]]
