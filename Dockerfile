@@ -11,8 +11,12 @@ COPY quartz/ ./quartz/
 COPY quartz.lock.json* .
 RUN npm install; npx quartz plugin install
 
-FROM node:22-slim
-WORKDIR /usr/src/app
-COPY --from=builder /usr/src/app/ /usr/src/app/
 COPY . .
-CMD ["npx", "quartz", "build", "--serve"]
+
+RUN npx quartz build
+
+FROM caddy:alpine
+COPY --from=builder /usr/src/app/public /srv
+COPY Caddyfile.dev /etc/caddy/Caddyfile
+
+ENTRYPOINT ["caddy", "run", "--config", "/etc/caddy/Caddyfile"]
